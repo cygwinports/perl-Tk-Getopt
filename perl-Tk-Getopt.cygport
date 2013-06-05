@@ -1,0 +1,11 @@
+CPAN_AUTHOR="srezic"
+inherit perl
+
+NAME="perl-Tk-Getopt"
+VERSION=0.50
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl/Tk interface for Getopt::Long"
+DESCRIPTION="Tk::Getopt is an option editor for Perl/Tk. It also provides an
+interface to Getopt::Long, so options may be entered at command line, saved to
+an options file, or set in the option editor."
