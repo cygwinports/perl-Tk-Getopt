@@ -2,8 +2,8 @@ CPAN_AUTHOR="srezic"
 inherit perl
 
 NAME="perl-Tk-Getopt"
-VERSION=0.50
-RELEASE=2
+VERSION=0.51
+RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl/Tk interface for Getopt::Long"
 DESCRIPTION="Tk::Getopt is an option editor for Perl/Tk. It also provides an
